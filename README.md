@@ -44,7 +44,7 @@ This project implements a comprehensive data analysis pipeline for Netflix shows
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ankitojha2705/Apache_Beam_data.git
 cd netflix-analysis
 ```
 
